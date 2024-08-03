@@ -1,1 +1,1 @@
-A landing page for LookScout built with HTML, CSS.
+A responsive landing page for LookScout built with HTML, CSS.
